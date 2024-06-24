@@ -50,12 +50,10 @@ Android Studio Giraffe | 2022.3.1 Patch 3
 2. **Set Up Firebase**
 
 - Create a Firebase Project:
-
   1. Go to the Firebase Console
   2. Click on "Add project" and follow the setup instructions
 
 - Register Your App with Firebase:
-
   1. In the Firebase Console, click on "Add app" and select the Android icon
   2. Follow the steps to register your app with Firebase
   3. Download the google-services.json file
