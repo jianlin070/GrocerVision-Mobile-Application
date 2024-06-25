@@ -62,7 +62,7 @@ Android Studio Giraffe | 2022.3.1 Patch 3
 - Add Firebase SDK:
   1. Open the android/build.gradle file and add the following line to the dependencies section:
   ```sh
-   classpath 'com.google.gms:google-services:4.3.10'
+  classpath 'com.google.gms:google-services:4.3.10'
   ```
   2.  Open the android/app/build.gradle file and add the following line at the bottom of the file:
   ```sh
